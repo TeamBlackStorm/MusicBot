@@ -27,7 +27,7 @@ An Telegram Bot By [GAURAV🇮🇳](https://t.me/LEGENDXGAURAV) To Stream Videos
 
 
 ### Heroku (Don't Complain)
-<p><a href="https://heroku.com/deploy?template=https://github.com/AsmSafone/VideoPlayerBot"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
+<p><a href="https://heroku.com/deploy?template=https://github.com/TeamBlackStorm/MusicBot"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
 
 ## Commands (Set In Botfather)
 ```sh
