@@ -1,6 +1,6 @@
 """
 VideoPlayerBot, Telegram Video Chat Bot
-Copyright (c) 2021  Asm Safone <https://github.com/AsmSafone>
+Copyright (c) 2021  LEGEND GAURAV <https://github.com/TeamBlackStorm>
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published by
@@ -29,8 +29,8 @@ API_ID = int(getenv("API_ID", ""))
 API_HASH = getenv("API_HASH", "")
 BOT_TOKEN = getenv("BOT_TOKEN", "")
 SESSION_STRING = getenv("SESSION_STRING", "")
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "SafoTheBot")
-UPDATES_CHANNEL = getenv("UPDATES_CHANNEL", "AsmSafone")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "HungamaSupport")
+UPDATES_CHANNEL = getenv("UPDATES_CHANNEL", "HungamaSupport")
 ASSISTANT_NAME = getenv("ASSISTANT_NAME", "MyVideoPlayer")
 SUDO_USERS = list(map(int, getenv("SUDO_USERS").split()))
 REPLY_MESSAGE = getenv("REPLY_MESSAGE", "")
